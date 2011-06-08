@@ -1,1 +1,1 @@
-This ruler program is broken... I'll come back to it later tonight after I master more Java.
+This ruler program is broken... I'll come back to it later today after I master more Java.
